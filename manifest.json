@@ -4,8 +4,8 @@
     "theme_color": "#084aa8",
     "background_color": "#1084e0",
     "display": "standalone",
-    "scope": "/index.html",
-    "start_url": "/",
+    "scope": "/",
+    "start_url": "https://vidall.github.io/DevPWA",
     "icons": [
       {
         "src": "windows11/SmallTile.scale-100.png",
@@ -457,6 +457,6 @@
       }
     ]
 }
-        
+
 
   
