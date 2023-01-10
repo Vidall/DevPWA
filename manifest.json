@@ -5,7 +5,7 @@
     "background_color": "#1084e0",
     "display": "standalone",
     "scope": "/index.html",
-    "start_url": "/https://vidall.github.io/pwa/",
+    "start_url": "/pwa/",
     "icons": [
       {
         "src": "windows11/SmallTile.scale-100.png",
